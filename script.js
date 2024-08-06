@@ -1,4 +1,12 @@
-var timer = 60;
+gsap.to(".loder",{
+    y:-1500,
+    delay:2,
+    duration:6,
+})
+
+
+setTimeout(() => {
+    var timer = 60;
 var score = 0;
 var hitrn = 0;
 
@@ -54,3 +62,5 @@ document.querySelector(".pbtm").addEventListener("click",function(dets){
 runTimer();
 makeBubble();
 getNewhit();
+
+}, 4000);
