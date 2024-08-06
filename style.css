@@ -116,7 +116,7 @@ html,body{
         background-color: #fff;
         position: absolute;
         z-index: 99;
-        background-image: url(https://media.istockphoto.com/id/173903127/photo/colored-balls.jpg?s=612x612&w=0&k=20&c=XHILI-Z2P1PfXKKgO6ajT5vodJWhepXBRMSls3hhqkA=);
+        background-image: url(./bgimage.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
